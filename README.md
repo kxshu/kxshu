@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hello! I'm kx.</h2>
 
+<img align="center" src="https://github.com/kxshu/kxshu/actions/workflows/blank.yml/badge.svg" />
+
 <!--
 **kxshu/kxshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
