@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm kx.</h2>
 
 <!--
 **kxshu/kxshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true" alt="logo" height="160" style="margin: 5px; margin-bottom: 20px;" /> 
