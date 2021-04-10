@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![kx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true&theme=radical)](https://github.com/kxshu/kxshu)
 
 
-<summary>
+
 
 <a href="https://github.com/kxshu/kxshu">
     <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=kx">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxshu&layout=compact)](https://github.com/kxshu/kxshu)
 
-</summary>
+
 
 
 <!--START_SECTION:waka-->
