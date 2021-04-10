@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## kx's GitHub stats
 
-[![kx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true&theme=radical)](https://github.com/kxshu/kxshu)
+[![kx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true)](https://github.com/kxshu/kxshu)
 
 ## Top Langs
 
