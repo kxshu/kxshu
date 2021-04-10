@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![kx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true&theme=radical)](https://github.com/kxshu/kxshu)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kxshu&show_icons=true" alt="logo" height="160" style="margin: 5px; margin-bottom: 20px;" /> 
+<summary>
+
+<a href="https://github.com/kxshu/kxshu">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=kx">
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxshu&layout=compact)](https://github.com/kxshu/kxshu)
+
+</summary>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
