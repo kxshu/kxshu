@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-
+Python     2 mins          ████████████████████████▒   97.96 % 
 ```
 <!--END_SECTION:waka-->
