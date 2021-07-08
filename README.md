@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   38 mins         ███████████████████████░░   91.41 % 
-MDX          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JavaScript   30 mins         ███████████████████████▓░   94.03 % 
 ```
 <!--END_SECTION:waka-->
