@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   30 mins         ███████████████████████▓░   94.03 % 
+YAML   8 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
