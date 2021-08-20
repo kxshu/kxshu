@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   10 mins         █████████████████████████   100.00 % 
+Markdown   4 hrs 11 mins   ███████████████████████▒░   93.62 % 
+HTML       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+PHP        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
