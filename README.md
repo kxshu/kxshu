@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     17 mins         █████████████████░░░░░░░░   67.64 % 
-Python       5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
-TOML         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+PowerShell   36 mins         ███████████████▓░░░░░░░░░   62.34 % 
+Markdown     13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Python       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+PHP          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 <!--END_SECTION:waka-->
