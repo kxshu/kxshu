@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PowerShell   36 mins         █████████████████▒░░░░░░░   68.86 % 
-Markdown     13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
-PHP          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+PowerShell   36 mins         █████████████████████▓░░░   87.05 % 
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+PHP          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
