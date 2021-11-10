@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP          1 hr 18 mins    █████████████████████▓░░░   86.02 % 
-Other        8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+PHP     1 hr 18 mins    ████████████████▒░░░░░░░░   65.25 % 
+YAML    23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Other   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Bash    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTML    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
