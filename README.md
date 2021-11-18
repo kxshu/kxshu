@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML     1 hr 39 mins    ███████████████▒░░░░░░░░░   61.46 % 
-Other    22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Python   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-PHP      15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Bash     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other      17 mins         ████████████▓░░░░░░░░░░░░   50.14 % 
+Python     17 mins         ████████████░░░░░░░░░░░░░   48.25 % 
 ```
 <!--END_SECTION:waka-->
