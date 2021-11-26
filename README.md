@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other      13 mins         ██████████████████▓░░░░░░   74.01 % 
-Python     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript   1 min           █████████████████████░░░░   83.67 % 
 ```
 <!--END_SECTION:waka-->
