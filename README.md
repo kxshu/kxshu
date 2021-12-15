@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other   16 mins         █████████████████████████   100.00 % 
+Other   16 mins         ████████████████████████░   96.19 % 
 ```
 <!--END_SECTION:waka-->
