@@ -32,8 +32,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML   1 hr 9 mins     ██████████████▓░░░░░░░░░░   58.32 %
-TOML   49 mins         ██████████▒░░░░░░░░░░░░░░   41.68 %
+TOML    6 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.34 %
+YAML    4 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   39.15 %
+HTML    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
