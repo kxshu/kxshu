@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          █████████████████████████   100.00 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML                       55 mins         █████████████▒░░░░░░░░░░░   53.98 %
+Python                     26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+Nginx configuration file   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Other                      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
