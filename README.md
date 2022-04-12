@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       55 mins         █████████████▓░░░░░░░░░░░   54.17 %
-Python                     26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-Nginx configuration file   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other                      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
