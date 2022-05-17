@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       5 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.25 %
-TOML                       3 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-Docker                     1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-PHP                        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Bash                       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Other                      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TOML                       3 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+YAML                       3 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+Docker                     1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+Nginx configuration file   1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+PHP                        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Bash                       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 ```
 
 <!--END_SECTION:waka-->
