@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   1 hr 6 mins     ██████████▓░░░░░░░░░░░░░░   42.63 %
-Python                     41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-TOML                       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Other                      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Python                     41 mins         ████████████████████████▓   98.43 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
