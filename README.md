@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-YAML                       14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
-Other                      11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Other                      37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
 ```
 
 <!--END_SECTION:waka-->
