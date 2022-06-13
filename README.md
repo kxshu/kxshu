@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON                       1 hr 39 mins    █████████▓░░░░░░░░░░░░░░░   38.52 %
-Other                      37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+JSON         1 hr 33 mins    ███████████▓░░░░░░░░░░░░░   46.64 %
+Other        26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
 ```
 
 <!--END_SECTION:waka-->
