@@ -32,12 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         1 hr 33 mins    █████████████████▓░░░░░░░   70.99 %
-JavaScript   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Vue.js       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash    5 mins          ████████████████████▒░░░░   81.02 %
+PHP     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
