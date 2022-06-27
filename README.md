@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby    41 mins         █████████████████▒░░░░░░░   69.96 %
-JSON    14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Ruby     41 mins         ████████████████▓░░░░░░░░   66.89 %
+JSON     14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
