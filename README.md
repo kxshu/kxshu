@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     46 mins         ███████████████████████▒░   93.62 %
-Go         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Groovy       2 mins          ██████████████▒░░░░░░░░░░   56.82 %
+HTML         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Properties   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Other        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
 ```
 
 <!--END_SECTION:waka-->
