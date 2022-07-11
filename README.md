@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       2 mins          ██████████████▒░░░░░░░░░░   56.82 %
-HTML         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Properties   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Markdown          9 mins          █████████████▓░░░░░░░░░░░   54.45 %
+Other             2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
 ```
 
 <!--END_SECTION:waka-->
